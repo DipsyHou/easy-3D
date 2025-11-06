@@ -1,0 +1,5 @@
+easy3d
+*.o
+*.exe
+.vscode/
+.DS_Store
